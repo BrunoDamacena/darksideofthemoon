@@ -32,7 +32,6 @@ void desenhaCena(void)
     glBegin(GL_LINE_STRIP);
         glVertex3f(-200, -50, 0);
         glVertex3f(-20, 0, 0);
-        //glVertex3f(0, 40, 0);
     glEnd();
     // draw the triangle inside the main triangle
     glColor3f(.9, .9, .9);
