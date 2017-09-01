@@ -45,7 +45,7 @@ void desenhaCena(void)
     glColor3f(1, 0, 0);
     darkSide(15,10,(51/3),(20/3),200,-(65/3),200,-15);
     // set color as orange    
-    glColor3f((double)240/255, (double)130/255, (double)41/255);
+    glColor3f(1, 0.5, 0);
     darkSide((51/3),(20/3),(55/3),(10/3),200,-(85/3),200,-(65/3));
     // set color as yellow 
     glColor3f(1, 1, 0);
