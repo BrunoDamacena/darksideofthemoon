@@ -1,9 +1,6 @@
 /*
     Pink Floyd - Dark Side of the Moon Cover
     By Bruno Damacena, Computer Engineering Student
-    
-    P.S.: gcc commands for terminal compilation using gcc:
-    gcc code.c -lglut -lGLU -lGL -lm
 */
 
 #include <GL/glew.h>
